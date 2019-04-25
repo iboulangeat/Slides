@@ -6,8 +6,18 @@
 		<generator>Hugo -- gohugo.io</generator>
 		<language>en-us</language>
 		<author>Isabelle Boulangeat</author>
-		<rights>Copyright (c) 1</rights>
+		<rights>Copyright (c) 2019</rights>
 		<updated>0001-01-01 00:00:00 &#43;0000 UTC</updated>
+		
+		<item>
+			<title>Predictive modelling of plant communities : challenges for a dynamical approach</title>
+			<link>http://iboulangeat.github.io/Slides/slides/predbiodiv_ecoveg/</link>
+			<pubDate>Thu, 25 Apr 2019 00:00:00 UTC</pubDate>
+			<author>Isabelle Boulangeat</author>
+			<guid>http://iboulangeat.github.io/Slides/slides/predbiodiv_ecoveg/</guid>
+			<media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://iboulangeat.github.io/Slides/img/default-header-img.tn-500x500.jpg" medium="image" type="image/jpg" width="100" height="100" />
+			<description>%!s(&lt;nil&gt;)&lt;br&gt;Keynote ECOVEG 14 : predictive biodiversity modelling</description>
+		</item>
 		
 		<item>
 			<title>Networks and socioecosystems</title>
@@ -16,7 +26,7 @@
 			<author>Isabelle Boulangeat</author>
 			<guid>http://iboulangeat.github.io/Slides/slides/networks_lisc/</guid>
 			<media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://iboulangeat.github.io/Slides/img/default-header-img.tn-500x500.jpg" medium="image" type="image/jpg" width="100" height="100" />
-			<description>%!s(&lt;nil&gt;)&lt;br&gt;Visit in Irstea Clermont-Ferrand (LISC)</description>
+			<description>%!s(&lt;nil&gt;)&lt;br&gt;Visit at Irstea Clermont-Ferrand (LISC)</description>
 		</item>
 		
 	</channel>

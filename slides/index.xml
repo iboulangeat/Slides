@@ -26,5 +26,28 @@ Plan  Socioecosystems et enjeux de resilience L&amp;rsquo;intérêt des réseaux
 .relative.bg-white-40pct[PhD : Biogeography and Community Ecology]</description>
     </item>
     
+    <item>
+      <title>Predictive modelling of plant communities</title>
+      <link>http://iboulangeat.github.io/Slides/slides/predbiodiv_ecoveg/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://iboulangeat.github.io/Slides/slides/predbiodiv_ecoveg/</guid>
+      <description>class: fullbleed, math background-color: black
+.absolute.w-100pct.pa-2.center.t-40pct.ba.bw-0.br-0.bg-white-80pct[
+Predictive modelling of plant communities Challenges for a dynamical approach ]
+layout: true .footer[ - iboulangeat - april 2019, ECOVEG 14, Toulouse ] class:
+Prediction in community ecology .absolute.l-4.t-4[Why?] .absolute.l-10pct.t-5[climate change
+habitat fragmentation
+land-use changes
+changes in disturbances
+changes of human practices]
+&amp;ndash;
+.absolute.r-6.t-4[What?] .absolute.l-50pct.t-5[species composition
+species diversity (taxonomic, functional, phylogenetic)
+community-level attributes (annual biomass production, canopy height, &amp;hellip;)]
+class:
+Modelling approach class:</description>
+    </item>
+    
   </channel>
 </rss>

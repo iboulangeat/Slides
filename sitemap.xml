@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://iboulangeat.github.io/Slides/slides/predbiodiv_ecoveg/</loc>
+    <lastmod>2019-04-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://iboulangeat.github.io/Slides/mailchimp/index.xml</loc>
   </url>
   
@@ -13,10 +18,12 @@
   
   <url>
     <loc>http://iboulangeat.github.io/Slides/</loc>
+    <lastmod>2019-04-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://iboulangeat.github.io/Slides/list_of_talks/</loc>
+    <lastmod>2019-04-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -26,6 +33,10 @@
   
   <url>
     <loc>http://iboulangeat.github.io/Slides/slides/networks_lisc/</loc>
+  </url>
+  
+  <url>
+    <loc>http://iboulangeat.github.io/Slides/slides/predbiodiv_ecoveg/</loc>
   </url>
   
   <url>
