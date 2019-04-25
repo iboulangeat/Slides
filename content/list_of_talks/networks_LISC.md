@@ -6,4 +6,4 @@ url: slides/networks_LISC/
 class: feature-nohdr
 ---
 
-Visit in Irstea Clermont-Ferrand (LISC)
+Visit at Irstea Clermont-Ferrand (LISC)
