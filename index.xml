@@ -7,12 +7,12 @@
 		<language>en-us</language>
 		<author>Isabelle Boulangeat</author>
 		<rights>Copyright (c) 2019</rights>
-		<updated>2019-04-25 00:00:00 &#43;0000 UTC</updated>
+		<updated>2019-02-25 00:00:00 &#43;0000 UTC</updated>
 		
 		<item>
 			<title>Predictive modelling of plant communities : challenges for a dynamical approach</title>
 			<link>http://iboulangeat.github.io/Slides/slides/predbiodiv_ecoveg/</link>
-			<pubDate>Thu, 25 Apr 2019 00:00:00 UTC</pubDate>
+			<pubDate>Mon, 25 Feb 2019 00:00:00 UTC</pubDate>
 			<author>Isabelle Boulangeat</author>
 			<guid>http://iboulangeat.github.io/Slides/slides/predbiodiv_ecoveg/</guid>
 			<media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://iboulangeat.github.io/Slides/img/default-header-img.tn-500x500.jpg" medium="image" type="image/jpg" width="100" height="100" />
@@ -28,6 +28,17 @@
 			<guid>http://iboulangeat.github.io/Slides/slides/networks_lisc/</guid>
 			<media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://iboulangeat.github.io/Slides/img/default-header-img.tn-500x500.jpg" medium="image" type="image/jpg" width="100" height="100" />
 			<description>&lt;p&gt;Visit at Irstea Clermont-Ferrand (LISC)&lt;/p&gt;
+</description>
+		</item>
+		
+		<item>
+			<title>Prediction in plant community ecology</title>
+			<link>http://iboulangeat.github.io/Slides/slides/predbiodiv_monacal/</link>
+			<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+			<author>Isabelle Boulangeat</author>
+			<guid>http://iboulangeat.github.io/Slides/slides/predbiodiv_monacal/</guid>
+			<media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://iboulangeat.github.io/Slides/img/default-header-img.tn-500x500.jpg" medium="image" type="image/jpg" width="100" height="100" />
+			<description>&lt;p&gt;Workshop Monacal, Amiens, 4 Octobre 2019&lt;/p&gt;
 </description>
 		</item>
 		
