@@ -4,7 +4,7 @@ title = "Talks"
 theme = "story"
 canonifyURLs = true
 # publishDir = "docs"
-paginate = 5
+paginate = 10
 # buildFuture = false
 
 
