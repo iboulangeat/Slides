@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Talks </title>
+		<link>http://iboulangeat.github.io/Slides/</link>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<author>Isabelle Boulangeat</author>
+		<rights>Copyright (c) 2019</rights>
+		<updated>2019-09-10 00:00:00 &#43;0000 UTC</updated>
+		
+		<item>
+			<title>Towards functional groups of mountain socio-ecological systems</title>
+			<link>http://iboulangeat.github.io/Slides/slides/2019_imc_boulangeat_short.pdf</link>
+			<pubDate>Tue, 10 Sep 2019 00:00:00 UTC</pubDate>
+			<author>Isabelle Boulangeat</author>
+			<guid>http://iboulangeat.github.io/Slides/slides/2019_imc_boulangeat_short.pdf</guid>
+			<media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://iboulangeat.github.io/Slides/img/default-header-img.tn-500x500.jpg" medium="image" type="image/jpg" width="100" height="100" />
+			<description>&lt;p&gt;IMC conference, Innsbruck 2019 (septembre)
+Workshop on Active contribution to French LTSER research&lt;/p&gt;
+
+&lt;p&gt;pdf available here &lt;a href=&#34;https://github.com/iboulangeat/Slides/blob/master/content/slides/2019_IMC_Boulangeat_short.pdf&#34;&gt;https://github.com/iboulangeat/Slides/blob/master/content/slides/2019_IMC_Boulangeat_short.pdf&lt;/a&gt;&lt;/p&gt;
+</description>
+		</item>
+		
+		<item>
+			<title>Predictive modelling of plant communities : challenges for a dynamical approach</title>
+			<link>http://iboulangeat.github.io/Slides/slides/predbiodiv_ecoveg/</link>
+			<pubDate>Mon, 01 Apr 2019 00:00:00 UTC</pubDate>
+			<author>Isabelle Boulangeat</author>
+			<guid>http://iboulangeat.github.io/Slides/slides/predbiodiv_ecoveg/</guid>
+			<media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://iboulangeat.github.io/Slides/img/default-header-img.tn-500x500.jpg" medium="image" type="image/jpg" width="100" height="100" />
+			<description>&lt;p&gt;Keynote ECOVEG 14, Toulouse, Avril 2019&lt;/p&gt;
+</description>
+		</item>
+		
+		<item>
+			<title>Networks and socioecosystems</title>
+			<link>http://iboulangeat.github.io/Slides/slides/networks_lisc/</link>
+			<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+			<author>Isabelle Boulangeat</author>
+			<guid>http://iboulangeat.github.io/Slides/slides/networks_lisc/</guid>
+			<media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://iboulangeat.github.io/Slides/img/default-header-img.tn-500x500.jpg" medium="image" type="image/jpg" width="100" height="100" />
+			<description>&lt;p&gt;Visit at Irstea Clermont-Ferrand (LISC), mars 2019&lt;/p&gt;
+</description>
+		</item>
+		
+		<item>
+			<title>Prediction in plant community ecology</title>
+			<link>http://iboulangeat.github.io/Slides/slides/predbiodiv_monacal/</link>
+			<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+			<author>Isabelle Boulangeat</author>
+			<guid>http://iboulangeat.github.io/Slides/slides/predbiodiv_monacal/</guid>
+			<media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://iboulangeat.github.io/Slides/img/default-header-img.tn-500x500.jpg" medium="image" type="image/jpg" width="100" height="100" />
+			<description>&lt;p&gt;Workshop Monacal, Amiens, 4 Octobre 2019&lt;/p&gt;
+</description>
+		</item>
+		
+	</channel>
+</rss>
