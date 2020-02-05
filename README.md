@@ -1,4 +1,4 @@
-# Cours
+# Presentations
 
 Slides can be seen here:
 

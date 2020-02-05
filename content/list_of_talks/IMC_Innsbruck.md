@@ -2,7 +2,7 @@
 title: 'Towards functional groups of mountain socio-ecological systems'
 date: "2019-09-10"
 slides: slides/2019_IMC_Boulangeat_short.pdf
-url: slides/2019_IMC_Boulangeat_short.pdf
+url: https://github.com/iboulangeat/Slides/tree/master/content/slides/2019_IMC_Boulangeat_short.pdf
 class: feature-nohdr
 ---
 
