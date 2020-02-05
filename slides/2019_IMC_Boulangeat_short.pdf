@@ -3,9 +3,9 @@
 	<head>
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
-		<title>Talks</title>
+		<title>Towards functional groups of mountain socio-ecological systems</title>
 		<link rel="alternate" type="application/rss+xml" title="RSS" href="http://iboulangeat.github.io/Slides/index.xml">
-		<link rel="canonical" href="http://iboulangeat.github.io/Slides/">
+		<link rel="canonical" href="http://iboulangeat.github.io/Slides/slides/2019_imc_boulangeat_short.pdf">
 		
 		<link rel="shortcut icon" type="image/png" href="http://iboulangeat.github.io/Slides/apple-touch-icon-precomposed.png">
 		
@@ -13,7 +13,15 @@
 		<meta name="generator" content="Hugo 0.52" />
 
 		
-		
+		<meta property="og:title" content="Towards functional groups of mountain socio-ecological systems" />
+		<meta property="og:type" content="article" />
+		<meta property="og:image" content="http://iboulangeat.github.io/Slides/img/default-header-img.jpg" />
+		<meta property="og:description" content="" />
+		<meta property="og:url" content="http://iboulangeat.github.io/Slides/slides/2019_imc_boulangeat_short.pdf" />
+		<meta property="og:site_name" content="Towards functional groups of mountain socio-ecological systems" />
+		<meta name="twitter:card" content="summary_large_image" />
+		<meta name="twitter:site" content="@DrIsaBlg" />
+
 
 		
 		<link rel="stylesheet" href="http://iboulangeat.github.io/Slides/css/tachyons.min.css" />
@@ -31,7 +39,7 @@
 		<script src="http://iboulangeat.github.io/Slides/js/story.js"></script>
 
 	</head>
-	<body class="ma0 bg-white  page-kind-home is-page-false  feature-nohdr feature-math">
+	<body class="ma0 bg-white section-list_of_talks page-kind-page is-page-true  feature-nohdr feature-math">
 		
 		<header class="cover bg-top" >
 			<div class="">
@@ -48,10 +56,16 @@
 				</nav>
 
 				<div id="hdr" class="tc-l  pv2 ph3 ph4-ns">
-					<h1 class=" f2 fw3 mb0 mt0 lh-title">List of talks</h1>
+					<h1 class=" f2 fw3 mb0 mt0 lh-title">Towards functional groups of mountain socio-ecological systems</h1>
 					<h2 class=" fw1 f6 f3-l measure-wide-l center lh-copy mt2 mb3">
 						
 						
+							
+								Published
+								<time datetime="2019-09-10T00:00:00Z">Sep 10, 2019</time>
+								<span class="display-print">by Isabelle Boulangeat</span>
+								
+								<span class="display-print">at http://iboulangeat.github.io/Slides/slides/2019_imc_boulangeat_short.pdf</span>
 							
 						
 					</h2>
@@ -65,40 +79,24 @@
 		
 		<main role="main">
 		
-	<div class="pa3 pa4-ns w-100 w-70-ns center">
-		<section class="w-100 mw8">
-		
-		
-			<div class="relative w-100">
-	<article class="bb b--black-10">
-		<div class="db pv4  ph0-l no-underline dark-gray">
-			<div class="flex flex-column flex-row-ns">
-				
-				<div class="w-100 w6-ns pl3-ns">
-					<h1 class="f3 fw1 mt0 lh-title"><a href="http://iboulangeat.github.io/Slides/slides/predbiodiv_monacal/" class="color-inherit dim link">Prediction in plant community ecology</a></h1>
-					<div class="f6 f5-l lh-copy nested-copy-line-height nested-links">
-						
-							Workshop Monacal, Amiens, 4 Octobre 2019
-							<p class="pa0 sans-serif f7"><a class="ba br3 pa2 link" href="http://iboulangeat.github.io/Slides/slides/predbiodiv_monacal/">Slideshow <i class="fas fa-chevron-circle-right"></i></a></p>
-						
-					</div>
-				</div>
-			</div>
-		</div>
-	</article>
-</div>
+<article class="center bg-white br-3 pv1 ph4 lh-copy f5 nested-links mw7">
+	<p>IMC conference, Innsbruck 2019 (septembre)
+Workshop on Active contribution to French LTSER research</p>
 
-		
-		</section>
-	</div>
+</article>
 
 		</main>
 		
 				<div class="hide-print sans-serif f6 f5-l mt5 ph3 pb6 center nested-copy-line-height lh-copy nested-links mw-100 measure-wide">
 		<div class="about-the-author">
 		
-			<!-- Isabelle Boulangeat, Chargée de recherche à Irstea, Laboratoire LESSEM (Grenoble) -->
+			
+			
+				
+					<!-- Isabelle Boulangeat, Chargée de recherche à Irstea, Laboratoire LESSEM (Grenoble) -->
 
+				
+			
 		
 		</div>
 		
@@ -106,54 +104,6 @@
 
 		
 		
-<footer class="w-100 sans-serif" role="contentinfo">
-	<nav class="w-third-l pb3 f6 center db" role="navigation">
-
-<ul class="pagination">
-    
-    <li class="page-item">
-        <a href="http://iboulangeat.github.io/Slides/" class="page-link" aria-label="First"><span aria-hidden="true">&laquo;&laquo;</span></a>
-    </li>
-    
-    <li class="page-item">
-    <a href="http://iboulangeat.github.io/Slides/" class="page-link" aria-label="Previous"><span aria-hidden="true">&laquo;</span></a>
-    </li>
-    
-    
-    
-    
-    
-    
-        
-        
-    
-    
-    <li class="page-item"><a class="page-link" href="http://iboulangeat.github.io/Slides/">1</a></li>
-    
-    
-    
-    
-    
-    
-        
-        
-    
-    
-    <li class="page-item active"><a class="page-link" href="http://iboulangeat.github.io/Slides/page/2/">2</a></li>
-    
-    
-    <li class="page-item disabled">
-    <a href="" class="page-link" aria-label="Next"><span aria-hidden="true">&raquo;</span></a>
-    </li>
-    
-    <li class="page-item">
-        <a href="http://iboulangeat.github.io/Slides/page/2/" class="page-link" aria-label="Last"><span aria-hidden="true">&raquo;&raquo;</span></a>
-    </li>
-    
-</ul>
-</nav>
-</footer>
-
 		
 		<footer class="hide-print sans-serif f6 fw1 bg-black near-white bottom-0 w-100 pa3" role="contentinfo">
 			<p class="w-50 fr tr">
