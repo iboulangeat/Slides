@@ -6,4 +6,4 @@ url: slides/predBiodiv_ECOVEG/
 class: feature-nohdr
 ---
 
-Keynote ECOVEG 14 : predictive biodiversity modelling
+Keynote ECOVEG 14, Toulouse, Avril 2019 
