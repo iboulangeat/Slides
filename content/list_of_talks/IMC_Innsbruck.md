@@ -9,4 +9,5 @@ class: feature-nohdr
 IMC conference, Innsbruck 2019 (septembre)
 Workshop on Active contribution to French LTSER research
 
-pdf available here https://github.com/iboulangeat/Slides/blob/master/content/slides/2019_IMC_Boulangeat_short.pdf
+
+https://github.com/iboulangeat/Slides/tree/master/content/slides/2019_IMC_Boulangeat_short.pdf
